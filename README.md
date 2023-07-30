@@ -3,4 +3,4 @@
 Розроблено схему і розводку плати в EasyEDA
 ![Algorithm schema](./img/schema.jpg)
 ![Algorithm schema](./img/pcb.jpg)
-![Algorithm schema](./img/Знімок екрана 2023-07-30 171018.jpg)
+![Algorithm schema](./img/3dview.jpg)
